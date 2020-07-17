@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+	color: rgba(0,0,0,.8);
+	text-align: center;
+	background: linear-gradient(to right, rgb(219, 0, 235), rgb(0, 90, 245));
+	padding-top: 100px;
+}
+
+h1 {
+	font: 500 3.5em 'Roboto', sans-serif;
+	color: #eee;
+	text-align: center;
+	text-transform: uppercase;
+	justify-content: center;
+}
+
+h2 {
+	font: 400 1.5em 'Roboto', sans-serif;
+	color: #eee;
+	text-align: center;
+	width: 100%;
+}
+
+h3 {
+	font: 500 1em 'Roboto', sans-serif;
+	text-align: center;
+	color: #eee;
+
+}
